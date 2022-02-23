@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kero\\.nuget\\packages\\": {}
+    "C:\\Users\\engmo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kero\\source\\repos\\CMS\\CMS.DAL\\CMS.DAL.csproj",
+      "projectUniqueName": "E:\\B\\WEB\\HTML\\ASPCycle_36\\Eng.Ahmed Gendy\\MyRoute_Project\\CMS\\CMS.DAL\\CMS.DAL.csproj",
       "projectName": "CMS.DAL",
-      "projectPath": "C:\\Users\\kero\\source\\repos\\CMS\\CMS.DAL\\CMS.DAL.csproj",
-      "packagesPath": "C:\\Users\\kero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kero\\source\\repos\\CMS\\CMS.DAL\\obj\\",
+      "projectPath": "E:\\B\\WEB\\HTML\\ASPCycle_36\\Eng.Ahmed Gendy\\MyRoute_Project\\CMS\\CMS.DAL\\CMS.DAL.csproj",
+      "packagesPath": "C:\\Users\\engmo\\.nuget\\packages\\",
+      "outputPath": "E:\\B\\WEB\\HTML\\ASPCycle_36\\Eng.Ahmed Gendy\\MyRoute_Project\\CMS\\CMS.DAL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\engmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

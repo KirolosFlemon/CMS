@@ -10,3 +10,15 @@ C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.dll
 C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\ref\CMS.DAL.dll
 C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.pdb
 C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.csproj.AssemblyReference.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.deps.json
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.csproj.AssemblyReference.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.AssemblyInfoInputs.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.AssemblyInfo.cs
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.csproj.CoreCompileInputs.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\refint\CMS.DAL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.DAL\obj\Debug\net6.0\ref\CMS.DAL.dll
