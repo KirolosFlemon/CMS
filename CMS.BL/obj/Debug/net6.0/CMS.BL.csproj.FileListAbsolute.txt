@@ -13,3 +13,18 @@ C:\Users\kero\source\repos\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.csproj.CopyComplet
 C:\Users\kero\source\repos\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.dll
 C:\Users\kero\source\repos\CMS\CMS.BL\obj\Debug\net6.0\ref\CMS.BL.dll
 C:\Users\kero\source\repos\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\bin\Debug\net6.0\CMS.BL.deps.json
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\bin\Debug\net6.0\CMS.BL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\bin\Debug\net6.0\CMS.BL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\bin\Debug\net6.0\CMS.DAL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\bin\Debug\net6.0\CMS.DAL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.csproj.AssemblyReference.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.AssemblyInfoInputs.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.AssemblyInfo.cs
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.csproj.CoreCompileInputs.cache
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.csproj.CopyComplete
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\refint\CMS.BL.dll
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\CMS.BL.pdb
+E:\B\WEB\HTML\ASPCycle_36\Eng.Ahmed Gendy\MyRoute_Project\CMS\CMS.BL\obj\Debug\net6.0\ref\CMS.BL.dll
